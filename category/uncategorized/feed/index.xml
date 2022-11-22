@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Uncategorized &#8211; Kreenthon Aoumnoom | Work</title>
-	<atom:link href="http://nebzter.github.io/kreenthon_work_WP/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>http://nebzter.github.io/kreenthon_work_WP</link>
+	<atom:link href="https://nebzter.github.io/kreenthon_work_WP/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nebzter.github.io/kreenthon_work_WP</link>
 	<description></description>
 	<lastBuildDate>Tue, 22 Nov 2022 14:15:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/</link>
-					<comments>http://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/#comments</comments>
+		<link>https://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/</link>
+					<comments>https://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Tue, 22 Nov 2022 14:15:32 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://nebzter.github.io/kreenthon_work_WP/?p=1</guid>
+		<guid isPermaLink="false">https://nebzter.github.io/kreenthon_work_WP/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nebzter.github.io/kreenthon_work_WP/2022/11/22/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
