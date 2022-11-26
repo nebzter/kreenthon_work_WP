@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Kreenthon Aoumnoom | Work</title>
-	<atom:link href="https://nebzter.github.io/kreenthon_work_WP/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<title>admin &#8211; Kreenthon Aoumnoom | Work</title>
+	<atom:link href="https://nebzter.github.io/kreenthon_work_WP/user/admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nebzter.github.io/kreenthon_work_WP</link>
 	<description></description>
 	<lastBuildDate>Tue, 22 Nov 2022 14:15:32 +0000</lastBuildDate>
